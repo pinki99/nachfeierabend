@@ -87,7 +87,7 @@
          "name":"Objektebene 2",
          "objects":[
                 {
-                 "height":19,
+                 "height":24,
                  "id":3,
                  "name":"",
                  "rotation":0,
@@ -101,8 +101,26 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":1286.66666666667,
-                 "y":1385.16666666667
+                 "x":1283.66666666667,
+                 "y":1381.16666666667
+                }, 
+                {
+                 "height":19,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial Black",
+                     "text":"7",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":1185,
+                 "y":1382.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -111,7 +129,7 @@
          "y":0
         }],
  "nextlayerid":10,
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
