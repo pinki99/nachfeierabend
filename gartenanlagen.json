@@ -403,15 +403,6 @@
                         }]
                 }, 
                 {
-                 "id":863,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.geocaching.com\/geocache\/GC8JPXG"
-                        }]
-                }, 
-                {
                  "animation":[
                         {
                          "duration":1000,
