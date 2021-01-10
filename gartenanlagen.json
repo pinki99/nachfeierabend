@@ -72,6 +72,35 @@
         }, 
         {
          "draworder":"topdown",
+         "id":9,
+         "name":"Objektebene 2",
+         "objects":[
+                {
+                 "height":19,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial Black",
+                     "text":"8",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":1286.66666666667,
+                 "y":1385.16666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -81,8 +110,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
- "nextobjectid":1,
+ "nextlayerid":10,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
