@@ -81,7 +81,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":10,
+ "nextlayerid":11,
  "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -400,6 +400,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":863,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.geocaching.com\/geocache\/GC8JPXG"
                         }]
                 }, 
                 {
