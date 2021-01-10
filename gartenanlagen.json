@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"gartenanlagen.json"
         }
     },
  "height":100,
@@ -36,7 +37,7 @@
         {
          "draworder":"topdown",
          "id":2,
-         "name":"Floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
